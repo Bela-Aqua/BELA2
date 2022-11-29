@@ -1,0 +1,3 @@
+#!/bin/bash
+#we are here
+echo "a move"
