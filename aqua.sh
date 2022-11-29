@@ -7,3 +7,4 @@ echo "welcome $name
 echo "provide a passwd"
 read passwd -s
 echo "reenter $passwd"
+#this is a move
